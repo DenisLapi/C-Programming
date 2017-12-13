@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513183840 source:c:\users\denis lapi\desktop\07_12_2017\spiral_matrix_display_values\main.c
+	<stdio.h>
+	<stdlib.h>
+

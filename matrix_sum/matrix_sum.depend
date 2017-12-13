@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512857815 source:c:\users\denis lapi\desktop\07_12_2017\matrix_sum\main.c
+	<stdio.h>
+	<stdlib.h>
+

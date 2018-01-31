@@ -5,7 +5,6 @@
 #define POINT_SIZE 4
 #define COORD_SIZE 2
 
-
 float polygon_area(int x[], int y[], int num_of_point) {
 
     int area = 0; // Povrsina

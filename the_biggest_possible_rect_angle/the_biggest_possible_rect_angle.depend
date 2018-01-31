@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517417760 source:c:\users\denis lapi\desktop\c_programming\the_biggest_possible_rect_angle\main.c
+	<stdio.h>
+	<stdlib.h>
+

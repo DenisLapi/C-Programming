@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517258738 source:c:\users\denis lapi\desktop\c_programming\prime_numbers_to_n\main.c
+	<stdio.h>
+	<stdlib.h>
+

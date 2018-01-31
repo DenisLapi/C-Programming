@@ -29,7 +29,7 @@ int main()
     printf("\nCoordinates:\n\n");
 
     for(i = 0; i < POINT_NUMBER; i++) {
-        printf("POINT: %d | X: %d Y: %d\n", i, coords[i][0], coords[i][1]);
+        printf("POINT: %d | X: %d Y: %d\n", i + 1, coords[i][0], coords[i][1]);
     }
 
     printf("\n\nMinimum and maximum coordinates:\n\n");
@@ -88,7 +88,7 @@ int main()
     printf("\n\nCoordinates of the biggest rectangle:\n\n");
 
     for(i = 0; i < 4; i++) {
-        printf("POINT %d | X: %d Y: %d\n", i, big_rectangle[i][0], big_rectangle[i][1]);
+        printf("POINT %d | X: %d Y: %d\n", i + 1, big_rectangle[i][0], big_rectangle[i][1]);
     }
 
     printf("\n\n");

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517352416 source:c:\users\denis lapi\desktop\chess_table\main.c
+	<stdio.h>
+	<stdlib.h>
+
